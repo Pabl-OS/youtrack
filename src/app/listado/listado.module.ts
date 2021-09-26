@@ -11,4 +11,10 @@ import { ListadoRoutingModule } from './listado-routing.module';
     ListadoRoutingModule
   ]
 })
-export class ListadoModule { }
+export class ListadoModule {
+  constructor(){
+    console.log('feature 10');
+    
+  }
+  
+ }
