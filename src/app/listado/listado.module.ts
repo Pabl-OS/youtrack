@@ -18,6 +18,15 @@ export class ListadoModule {
     console.log('this is a feature11');
     console.log('this is a feature11');
     console.log('this is a feature11');
+
+    console.log('this is a feature12')
+    console.log('this is a feature12')
+    console.log('this is a feature12')
+    console.log('this is a feature12')
+    console.log('this is a feature12')
+    console.log('this is a feature12')
+    console.log('this is a feature12')
+    console.log('this is a feature12')
     
   }
   
