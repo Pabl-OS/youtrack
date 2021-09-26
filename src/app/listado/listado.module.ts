@@ -15,6 +15,9 @@ export class ListadoModule {
   constructor(){
     console.log('feature 10');
     console.log('this is a feature11');
+    console.log('this is a feature11');
+    console.log('this is a feature11');
+    console.log('this is a feature11');
     
   }
   
